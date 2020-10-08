@@ -55,7 +55,7 @@
                             echo '<h3 style="color:#fff">' . esc_html( $archive_title ) . '</h3>';
                         }
                         else{
-                            echo '<h2>' . esc_html( $archive_title ) . '</h2>';
+                            echo '<h2>' . $archive_title . '</h2>';
                         }
 					}
 
